@@ -12,8 +12,7 @@ This project focuses on analyzing United Kingdom railway data to extract meaning
 ## Tools & Technologies
 - Power BI (Data Visualization & Dashboarding)
 - Microsoft Excel (Data Cleaning & Preprocessing)
-- SQL (Optional Data Queries)
-- Python (Optional for Advanced Analysis)
+
 
 ## Dataset Description
 The dataset contains railway-related data including:
