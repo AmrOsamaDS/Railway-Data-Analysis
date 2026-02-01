@@ -51,7 +51,7 @@ This analysis provides valuable insights that can help transportation authoritie
 
 ## Author
 **Amr Osama**  
-Data Analyst | Power BI Developer  
+Data scientist | Power BI Developer  
 
 LinkedIn: https://www.linkedin.com/in/amr-osama-el-sayed  
 Portfolio: https://mostaql.com/u/Amr_Osama_EL/portfolio
