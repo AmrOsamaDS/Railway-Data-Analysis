@@ -11,12 +11,12 @@ This project focuses on analyzing United Kingdom railway data to extract meaning
 ### Dashboard Screenshots
 
 ![Dashboard Page 1](Images/Railway1.png)
-![Dashboard Page 1](Images/Railway2.png)
-![Dashboard Page 1](Images/Railway3.png)
-![Dashboard Page 1](Images/Railway4.png)
-![Dashboard Page 1](Images/Railway5.png)
-![Dashboard Page 1](Images/Railway6.png)
-![Dashboard Page 1](Images/Railway7.png)
+![Dashboard Page 2](Images/Railway2.png)
+![Dashboard Page 3](Images/Railway3.png)
+![Dashboard Page 4](Images/Railway4.png)
+![Dashboard Page 5](Images/Railway5.png)
+![Dashboard Page 6](Images/Railway6.png)
+![Dashboard Page 7](Images/Railway7.png)
 ## Tools & Technologies
 - Power BI (Data Visualization & Dashboarding)
 - Microsoft Excel (Data Cleaning & Preprocessing)
