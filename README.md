@@ -16,7 +16,6 @@ This project focuses on analyzing United Kingdom railway data to extract meaning
 ![Dashboard Page 4](Images/Railway4.png)
 ![Dashboard Page 5](Images/Railway5.png)
 ![Dashboard Page 6](Images/Railway6.png)
-![Dashboard Page 7](Images/Railway7.png)
 ## Tools & Technologies
 - Power BI (Data Visualization & Dashboarding)
 - Microsoft Excel (Data Cleaning & Preprocessing)
