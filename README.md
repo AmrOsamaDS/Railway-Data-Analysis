@@ -2,15 +2,21 @@
 
 ## Project Overview
 This project focuses on analyzing United Kingdom railway data to extract meaningful insights related to passenger traffic, station performance, and travel trends. The goal is to support data-driven decision-making and improve transportation planning and operational efficiency.
-### Dashboard Screenshots
 
-![Dashboard Page 1](Images/Railway1.png)
 ## Objectives
 - Analyze passenger volume trends across different stations.
 - Identify peak travel periods.
 - Evaluate station performance.
 - Discover patterns in train usage and demand.
+### Dashboard Screenshots
 
+![Dashboard Page 1](Images/Railway1.png)
+![Dashboard Page 1](Images/Railway2.png)
+![Dashboard Page 1](Images/Railway3.png)
+![Dashboard Page 1](Images/Railway4.png)
+![Dashboard Page 1](Images/Railway5.png)
+![Dashboard Page 1](Images/Railway6.png)
+![Dashboard Page 1](Images/Railway7.png)
 ## Tools & Technologies
 - Power BI (Data Visualization & Dashboarding)
 - Microsoft Excel (Data Cleaning & Preprocessing)
