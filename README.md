@@ -4,8 +4,7 @@
 This project focuses on analyzing United Kingdom railway data to extract meaningful insights related to passenger traffic, station performance, and travel trends. The goal is to support data-driven decision-making and improve transportation planning and operational efficiency.
 ### Dashboard Screenshots
 
-![Dashboard Page 1]("Images\Railway1.png")
-
+![Dashboard Page 1](Images/Railway1.png)
 ## Objectives
 - Analyze passenger volume trends across different stations.
 - Identify peak travel periods.
